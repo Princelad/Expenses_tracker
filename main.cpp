@@ -1,7 +1,7 @@
-/*This program is created by 23CS037 Prince Lad*/
+/*This program is created by Prince Lad*/
 
 /*
-Create an advanced C++ program for tracking daily expenses. The program should allow the user to
+This is a C++ program for tracking daily expenses. The program should allow the user to
 input details of expenses. It should display a running total of expenses.
 */
 
